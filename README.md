@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 Hello there, I'm <a href="https://github.com/indratrsn19" target="_blank" rel="noreferrer">Indra</a> 👋
 </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=indratrsn19&label=Profile%20views&color=0e75b6&style=flat" alt="indratrsn19" /> </p>
-
 - 🌱 I’m currently learning **Flutter**
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/indratrsn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/indra-trisno-bb802892) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/indratrsn) 
@@ -36,9 +33,6 @@ Hello there, I'm <a href="https://github.com/indratrsn19" target="_blank" rel="n
 ![](https://github-readme-stats.vercel.app/api?username=indratrsn19&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=indratrsn19&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=indratrsn19&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=indratrsn)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

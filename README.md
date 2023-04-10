@@ -30,6 +30,8 @@ Hello there, I'm <a href="https://github.com/indratrsn19" target="_blank" rel="n
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<img src="https://komarev.com/ghpvc/?username=indratrsn19&style=flat-square&color=blue" alt=""/>
+
 
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=indratrsn19.indratrsn19)
 

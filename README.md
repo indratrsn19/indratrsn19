@@ -30,12 +30,11 @@ Hello there, I'm <a href="https://github.com/indratrsn19" target="_blank" rel="n
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=indratrsn19&style=flat-square&color=blue" alt=""/>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=indratrsn19&style=flat-square&color=blue" alt=""/>
+</div>
 
-![Visitor](https://visitor-badge.glitch.me/badge?page_id=indratrsn19.indratrsn19)
-
-## 📈 GitHub Stats
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=indratrsn19&show_icons=true&hide=contribs,issues&count_private=true&theme=tokyonight)](https://github.com/indratrsn19)
 
 <img align="right" alt="indratrsn19's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indratrsn19&theme=radical&show_icons=true&hide_border=true&line_height=24"/>

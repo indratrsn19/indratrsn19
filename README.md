@@ -33,25 +33,5 @@ Hello there, I'm <a href="https://github.com/indratrsn19" target="_blank" rel="n
 
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=indratrsn19.indratrsn19)
 
-## 🌱 I'm currently learning
-- Flutter
-- Firebase
-- Bloc
-- Clean Architecture
-
-## 📊 Weekly Development Breakdown
-<!--START_SECTION:waka-->
-
-```text
-Dart     5 hrs 55 mins   ███████████████████▓░░░░░   78.26 %
-Groovy   40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.95 %
-YAML     32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-PHP      17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-XML      7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.59 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
-```
-
-<!--END_SECTION:waka-->
-
 ## 📈 GitHub Stats
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=indratrsn19&show_icons=true&hide=contribs,issues&count_private=true&theme=tokyonight)](https://github.com/indratrsn19)

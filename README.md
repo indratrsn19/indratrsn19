@@ -18,7 +18,9 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100"/>
 </div>
 
-## Hello There!, I'm Indra!
+<h2 align="center">
+Hello there, I'm <a href="https://github.com/indratrsn19" target="_blank" rel="noreferrer">Indra</a> 👋
+</h2>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/indra-trisno-bb802892">

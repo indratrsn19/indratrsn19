@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 Hello there, I'm <a href="https://github.com/indratrsn19" target="_blank" rel="noreferrer">Indra</a> 👋
 </h2>
 
-<h1 align="center">Hi 👋, I'm Indra</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=indratrsn19&label=Profile%20views&color=0e75b6&style=flat" alt="indratrsn19" /> </p>
 
 - 🌱 I’m currently learning **Flutter**

@@ -37,5 +37,5 @@ Hello there, I'm <a href="https://github.com/indratrsn19" target="_blank" rel="n
 <div align="center">
 <a href="https://github.com/indratrsn19">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=indratrsn19&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indratrsn19&theme=algolia" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=indratrsn19&theme=algolia" height="180em weight=200em" />
 </div>
